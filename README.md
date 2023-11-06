@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains the code and resources for my participation in the [Music Genre Classification Kaggle competition](https://www.kaggle.com/competitions/music-vibes-datathon-fall23/overview). The competition's goal was to improve the music discovery experience by accurately classifying the genre of songs based on their attributes. I used a CatBoostClassifier and data preprocessing techniques to achieve competitive results.
+This repository contains the code and resources for my participation in the [Music Genre Classification Kaggle competition](https://www.kaggle.com/competitions/music-vibes-datathon-fall23/overview). The competition's goal was to improve the music discovery experience by accurately classifying the genre of songs based on their attributes. 
+There were 16 unique classes in the 'target' variable, and the data was highly imbalanced.
+I used a CatBoostClassifier and data preprocessing techniques to achieve competitive results.
 
 ## Dataset
 
