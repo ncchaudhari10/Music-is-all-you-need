@@ -35,7 +35,7 @@ The dataset for this competition included rich information about songs, such as 
 
 ## Results
 
-- The competition's evaluation metric was the F1 score. The weighted F1 score for the submission is [insert score here].
+- The competition's evaluation metric was the F1 score. The weighted F1 score for the submission is 0.73788.
 - During the competition, I observed that the performance of the model improved significantly after handling missing values and over-sampling.
 - Challenges faced included dealing with a small imbalanced dataset, tuning hyperparameters effectively, and selecting the most relevant features from a wide range of data.
 
